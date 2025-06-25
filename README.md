@@ -18,7 +18,7 @@
 
 ### Basic Execution
 ```bash
-./nextjs_advanced_builder_vl .O.sh /path/to/your-nextjs-project
+./nextjs_advanced_builder_vl.O.sh /path/to/your-nextjs-project
 ./buildNextjsApp_Pro_v6.sh --help
 ./buildNextjsApp_Pro_v6.sh --force
 
