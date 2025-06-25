@@ -1,4 +1,4 @@
-**An advanced, configurable build automation script for Next.js SSR applications** with step-by-step control, interactive menus, and detailed logging. Perfect for CI/CD pipelines or local development.
+**An advanced, configurable and customizable build automation script for Next.js SSR applications** with step-by-step control, interactive menus, and detailed logging. Perfect for CI/CD pipelines or local development.
 
 ---
 
