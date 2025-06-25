@@ -12,3 +12,5 @@
 ✅ **TypeScript & Linting Support**  
 ✅ **Docker & Permissions Prep**  
 ✅ **Color-Coded Logging & Statistics**  
+
+![image](https://github.com/user-attachments/assets/9a23d8a7-3f48-4a5a-bb0c-7056eff65214)
